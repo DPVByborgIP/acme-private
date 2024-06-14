@@ -1,6 +1,6 @@
 {
     "recipes": {
-        "acme/private-bundle": [
+        "acme/private": [
             "1.0"
         ]
     },
