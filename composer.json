@@ -1,5 +1,5 @@
 {
-    "name": "acme/private",
+    "name": "app/stub-bundle",
     "description": "# Test with Symfony Flex",
     "type": "library",
     "require": {
